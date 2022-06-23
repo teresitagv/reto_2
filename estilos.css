@@ -1,0 +1,95 @@
+*.contenedor{
+    font-family: sans-serif;
+    background-color: rgb(255, 221, 0);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    width: 400px;
+    height: 50px;
+
+}
+.partesContenedores{
+    display: flex;
+    margin-top: 30px;
+    
+}
+
+.index{
+    background: linear-gradient(to left, pink, purple);
+}
+
+
+.imgTacos{
+    width: 66%;
+    height: 200px;
+    background-image: url(tacos.jpg);
+}
+.contenedorImgTacos{
+    margin-top: 60px;
+}
+.title{
+    text-align: center;
+    margin-left: 20px;
+    width: 170px;
+    background-color: yellow;
+}
+.title2{
+    text-align: center;
+    margin-left: 20px;
+    width: 140px;
+    background-color: yellow;
+}
+.contenedorPrecios{
+    text-align: center;
+    margin-left: 45px;
+}
+.precios{
+    height: 85px;
+    width: 400px;
+    background-color: yellow;
+}
+.precio{
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.contenedores3{
+    display: flex;
+    text-align: center;
+}
+.contenedor1{
+    background-color: white;
+    height: 180px;
+    margin: auto;
+    width: 350px;
+    margin-top: 20px;
+}
+.imgsContenedor1{
+    margin-top: 10px;
+}
+
+.contenedor4{
+    display: flex;
+    background-color: white;
+    width: 99%;
+    margin: auto;
+    margin-top: 20px;
+}
+.Title{
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.buttom{
+    background-color: yellow;
+    color: rgb(121, 121, 0);
+    width: 120px;
+    height: 50px;
+}
+
+
+
+
+
+
